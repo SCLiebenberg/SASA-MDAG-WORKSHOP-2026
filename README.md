@@ -14,7 +14,7 @@ Please work through the **[preparation checklist](PREPARATION.md)** before the w
 |---|---|
 | `setup/` | Package installation and setup check script |
 | `gsod-app/` | Shiny app for downloading GSOD data and scoring station data quality |
-| `era5-app/` | Shiny app for requesting ERA5 data from the CDS (TODO) |
+| `era5-app/` | Shiny app for requesting ERA5 data from the CDS |
 | `slides/` | Workshop slides (TODO) |
 | `examples/` | Modelling example (TODO) |
 
