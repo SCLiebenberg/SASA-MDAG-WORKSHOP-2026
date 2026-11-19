@@ -1,0 +1,3 @@
+GSOD downloaded: 2026-11-18 14:42 SAST
+GSODR 4.1.3
+ERA5: CDS request dbea5d83-b20c-446b-8a13-c1ffcf5de099 (website, 2026-11-18)
