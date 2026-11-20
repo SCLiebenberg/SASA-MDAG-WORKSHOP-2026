@@ -64,10 +64,8 @@ If you already have R installed, check your version by running `R.version.string
 Open RStudio and run the following in the console:
 
 ```r
-source("https://raw.githubusercontent.com/TODO-USERNAME/TODO-REPO/main/setup/install_packages.R")
+source("https://raw.githubusercontent.com/SCLiebenberg/SASA-MDAG-WORKSHOP-2026/main/setup/install_packages.R")
 ```
-
-<!-- TODO: replace TODO-USERNAME/TODO-REPO once the repository exists -->
 
 Alternatively, download the workshop materials first (step 7), open `setup/install_packages.R` in RStudio and click **Source**.
 
@@ -95,7 +93,7 @@ which should print your token.
 
 You do not need a GitHub account or any knowledge of Git.
 
-1. Go to <https://github.com/TODO-USERNAME/TODO-REPO>.
+1. Go to <https://github.com/SCLiebenberg/SASA-MDAG-WORKSHOP-2026>.
 2. Click the green **Code** button, then **Download ZIP**.
 3. Unzip the folder somewhere easy to find (for example, your Documents folder).
 
